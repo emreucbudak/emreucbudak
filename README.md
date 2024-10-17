@@ -26,5 +26,6 @@ Skills: HTML/CSS/JS/REACT/C#/C/SQL/MYSQL/JAVA/ADO.NET/ENTİTY/OOP/LINQ/C++/TAİL
 
 ![GitHub metrics](https://metrics.lecoq.io/emreucbudak)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
+<
+https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630
