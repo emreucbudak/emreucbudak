@@ -27,5 +27,5 @@ Skills: HTML/CSS/JS/REACT/C#/C/SQL/MYSQL/JAVA/ADO.NET/ENTİTY/OOP/LINQ/C++/TAİL
 ![GitHub metrics](https://metrics.lecoq.io/emreucbudak)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='1000' height='1000' >
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='1000' height='500' >
 
