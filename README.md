@@ -78,10 +78,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emreucbudak)](https://github.com/ryo-ma/github-profile-trophy)
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
