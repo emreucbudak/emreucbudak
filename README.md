@@ -78,7 +78,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emreucbudak)](https://github.com/ryo-ma/github-profile-trophy)
  
-<div style="text-align: center; margin-top: 150px; display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 150px;">
   <!-- Sol taraftaki içerik -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true" alt="GitHub Stats">
