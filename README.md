@@ -5,27 +5,23 @@
 Öncelikle Merhaba! Ben Emre Üçbudak Karadeniz Teknik Üniversitesi 2. sınıf öğrencisiyim. Bu bağlamda kendimi geliştirmek için projeler yapıyor ve onları github da paylaşıyorum umarım profilimde gezdiğiniz süre boyunca zevk alırsınız. İYİ GÜNLER DİLERİM!
 
 ### 💻 Skills 
-| Teknoloji             | İkon                                                                                  |
-|-----------------------|----------------------------------------------------------------------------------------|
-| **HTML**             | ![HTML](https://img.icons8.com/color/48/000000/html-5.png)                             |
-| **CSS**              | ![CSS](https://img.icons8.com/color/48/000000/css3.png)                                |
-| **JavaScript**       | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)                   |
-| **React**            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                      |
-| **C#**               | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)                         |
-| **C**                | ![C](https://img.icons8.com/color/48/000000/c-programming.png)                         |
-| **SQL**              | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)                            |
-| **MySQL**            | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)                        |
-| **Java**             | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)               |
-| **ADO.NET**          | ![ADO.NET](https://img.icons8.com/color/48/000000/microsoft.png)                       |
-| **Entity Framework** | ![Entity Framework](https://img.icons8.com/color/48/000000/database.png)               |
-| **OOP**              | ![OOP](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-oop-programming-flaticons-lineal-color-flat-icons.png) |
-| **LINQ**             | ![LINQ](https://img.icons8.com/color/48/000000/link.png)                               |
-| **C++**              | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                    |
-| **TailwindCSS**      | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)                 |
-| **Bootstrap**        | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)                     |
-| **ASP.NET Core**     | ![ASP.NET Core](https://img.icons8.com/ios-filled/50/000000/asp.png)                   |
-| **N-Layer Architecture** | ![Architecture](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-architecture-it-flaticons-flat-flat-icons.png) |
-| **Web API**          | ![Web API](https://img.icons8.com/color/48/000000/api-settings.png)                    |
+
+| Teknoloji             | Beceriler                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------|
+| **HTML**             | ![HTML GIF](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)                             |
+| **CSS**              | ![CSS GIF](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)                               |
+| **JavaScript**       | ![JavaScript GIF](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)                        |
+| **React**            | ![React GIF](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)                            |
+| **C#**               | ![C# GIF](https://media.giphy.com/media/Ru9Ad2KzHZrS0/giphy.gif)                                     |
+| **C**                | ![C GIF](https://media.giphy.com/media/Yu8k1hb1zLZmgoUjxi/giphy.gif)                                |
+| **SQL**              | ![SQL GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)                              |
+| **MySQL**            | ![MySQL GIF](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)                                |
+| **Java**             | ![Java GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)                             |
+| **TailwindCSS**      | ![TailwindCSS GIF](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)                       |
+| **Bootstrap**        | ![Bootstrap GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)                        |
+| **ASP.NET Core**     | ![ASP.NET Core GIF](https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif)                      |
+| **Web API**          | ![Web API GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)                          |
+
 
 
 - 🔭 I’m currently working on software engineer  
