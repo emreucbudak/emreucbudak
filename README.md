@@ -15,6 +15,7 @@
 
 
 
+
 - 🔭 I’m currently working on software engineer  
 - 🌱 I’m currently learning about life and software engineering 
 - 👯 I’m looking to collaborate on about the languages ​​and programs I code 
