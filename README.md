@@ -16,7 +16,10 @@
 </p>
 
 
-### 💻 Skills
+<div align="center">
+  <h3 style="font-size: 30px;">💻 Skills</h3>
+</div>
+
 
 <div align="center">
 
