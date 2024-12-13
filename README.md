@@ -17,10 +17,10 @@
 
 
 <p align="center">
-  **"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."**
+  <b>"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."</b>
 </p>
 <p align="center">
-  **Mustafa Kemal Atatürk**
+  <b>Mustafa Kemal Atatürk</b>
 </p>
 
 
