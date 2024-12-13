@@ -76,11 +76,7 @@
 
 
 
-<div style="margin-top: 250px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emreucbudak" alt="trophy" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=emreucbudak)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 
