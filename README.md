@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 style="font-size: 100px; font-weight: bold;">Hi there 👋, Benim Adım Emre Üçbudak</h3>
+  <h1 style="font-size: 100px; font-weight: bold;">Hi there 👋, Benim Adım Emre Üçbudak</h1>
   <h4 style="font-size: 40px; font-weight: bold;">I am Software Engineer</h4>
 </div>
 
