@@ -80,18 +80,8 @@
  
 
 
-<div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak" alt="Top Languages" />
-    </a>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true" alt="GitHub Stats" />
-    <br />
-    <img src="https://streak-stats.demolab.com/?user=emreucbudak" alt="GitHub Streak Stats" />
-  </div>
-</div>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats)
 
 
