@@ -76,7 +76,12 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emreucbudak)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center" style="margin-top: 100px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=emreucbudak" alt="trophy" />
+  </a>
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats)
 
