@@ -4,7 +4,7 @@
 
 Öncelikle Merhaba! Ben Emre Üçbudak Karadeniz Teknik Üniversitesi 2. sınıf öğrencisiyim. Bu bağlamda kendimi geliştirmek için projeler yapıyor ve onları github da paylaşıyorum umarım profilimde gezdiğiniz süre boyunca zevk alırsınız. İYİ GÜNLER DİLERİM!
 
-Skills: HTML/CSS/JS/REACT/C#/C/SQL/MYSQL/JAVA/ADO.NET/ENTİTY/OOP/LINQ/C++/TAİLWİNDCSS/BOOTSTRAP
+Skills: HTML/CSS/JS/REACT/C#/C/SQL/MYSQL/JAVA/ADO.NET/ENTİTY/OOP/LINQ/C++/TAİLWİNDCSS/BOOTSTRAP/ASP-NET CORE/N-LAYER ARCHİTECTURE/WEB API
 
 - 🔭 I’m currently working on software engineer  
 - 🌱 I’m currently learning about life and software engineering 
