@@ -15,10 +15,10 @@
 
 
 
-<div class="quote">
+
     "Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."
-    <span class="author">Mustafa Kemal Atatürk</span>
-</div>
+                              Mustafa Kemal Atatürk
+
 
 
 
