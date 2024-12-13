@@ -62,5 +62,5 @@
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
-<img src='https://pbs.twimg.com/media/FDx80ekXIAMrvaS.jpg:large' width='1000' height='500' >
+
 
