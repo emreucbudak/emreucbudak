@@ -4,7 +4,29 @@
 
 Öncelikle Merhaba! Ben Emre Üçbudak Karadeniz Teknik Üniversitesi 2. sınıf öğrencisiyim. Bu bağlamda kendimi geliştirmek için projeler yapıyor ve onları github da paylaşıyorum umarım profilimde gezdiğiniz süre boyunca zevk alırsınız. İYİ GÜNLER DİLERİM!
 
-Skills: HTML/CSS/JS/REACT/C#/C/SQL/MYSQL/JAVA/ADO.NET/ENTİTY/OOP/LINQ/C++/TAİLWİNDCSS/BOOTSTRAP/ASP-NET CORE/N-LAYER ARCHİTECTURE/WEB API
+### 💻 Skills 
+| Teknoloji             | İkon                                                                                  |
+|-----------------------|----------------------------------------------------------------------------------------|
+| **HTML**             | ![HTML](https://img.icons8.com/color/48/000000/html-5.png)                             |
+| **CSS**              | ![CSS](https://img.icons8.com/color/48/000000/css3.png)                                |
+| **JavaScript**       | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)                   |
+| **React**            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                      |
+| **C#**               | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)                         |
+| **C**                | ![C](https://img.icons8.com/color/48/000000/c-programming.png)                         |
+| **SQL**              | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)                            |
+| **MySQL**            | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)                        |
+| **Java**             | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)               |
+| **ADO.NET**          | ![ADO.NET](https://img.icons8.com/color/48/000000/microsoft.png)                       |
+| **Entity Framework** | ![Entity Framework](https://img.icons8.com/color/48/000000/database.png)               |
+| **OOP**              | ![OOP](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-oop-programming-flaticons-lineal-color-flat-icons.png) |
+| **LINQ**             | ![LINQ](https://img.icons8.com/color/48/000000/link.png)                               |
+| **C++**              | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                    |
+| **TailwindCSS**      | ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)                 |
+| **Bootstrap**        | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)                     |
+| **ASP.NET Core**     | ![ASP.NET Core](https://img.icons8.com/ios-filled/50/000000/asp.png)                   |
+| **N-Layer Architecture** | ![Architecture](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-architecture-it-flaticons-flat-flat-icons.png) |
+| **Web API**          | ![Web API](https://img.icons8.com/color/48/000000/api-settings.png)                    |
+
 
 - 🔭 I’m currently working on software engineer  
 - 🌱 I’m currently learning about life and software engineering 
