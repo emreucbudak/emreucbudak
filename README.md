@@ -76,11 +76,12 @@
 
 
 
-<div align="center" style="margin-top: 100px;">
+<div style="margin-top: 250px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=emreucbudak" alt="trophy" />
   </a>
 </div>
+ 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats)
