@@ -8,6 +8,12 @@
 <p align="center">
   <b>- Winston Churchill</b>
 </p>
+<p align="center">
+  <b>"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."</b>
+</p>
+<p align="center">
+  <b>Mustafa Kemal Atatürk</b>
+</p>
 
 
 ### 💻 Skills
@@ -22,12 +28,7 @@
 
 
 
-<p align="center">
-  <b>"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."</b>
-</p>
-<p align="center">
-  <b>Mustafa Kemal Atatürk</b>
-</p>
+
 
 
 
