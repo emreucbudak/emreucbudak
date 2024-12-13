@@ -2,7 +2,13 @@
 #### I am Software Engineer
 ![I am Software Engineer](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
 
-Öncelikle Merhaba! Ben Emre Üçbudak Karadeniz Teknik Üniversitesi 2. sınıf öğrencisiyim. Bu bağlamda kendimi geliştirmek için projeler yapıyor ve onları github da paylaşıyorum umarım profilimde gezdiğiniz süre boyunca zevk alırsınız. İYİ GÜNLER DİLERİM!
+<p align="center">
+  <b>"Success is not final, failure is not fatal: It is the courage to continue that counts."</b>
+</p>
+<p align="center">
+  <b>- Winston Churchill</b>
+</p>
+
 
 ### 💻 Skills
 
