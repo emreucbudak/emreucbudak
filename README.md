@@ -3,7 +3,7 @@
   <h4 style="font-size: 100px; font-weight: bold;">I am Software Engineer</h4>
 </div>
 
-![I am Software Engineer](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
+![I am Software Engineer](https://pbs.twimg.com/media/FDx80ekXIAMrvaS.jpg:large)
 
 <p align="center">
   <b>"Success is not final, failure is not fatal: It is the courage to continue that counts."</b>
