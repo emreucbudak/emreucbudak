@@ -1,5 +1,8 @@
-### Hi there 👋, Benim Adım Emre Üçbudak
-#### I am Software Engineer
+<div align="center">
+  <h3 style="font-size: 50px; font-weight: bold;">Hi there 👋, Benim Adım Emre Üçbudak</h3>
+  <h4 style="font-size: 40px; font-weight: bold;">I am Software Engineer</h4>
+</div>
+
 ![I am Software Engineer](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-3.png?fit=1200%2C630)
 
 <p align="center">
