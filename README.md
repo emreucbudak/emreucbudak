@@ -16,8 +16,13 @@
 
 
 
-    "Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."
-                              Mustafa Kemal Atatürk
+<p align="center">
+  **"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."**
+</p>
+<p align="center">
+  **Mustafa Kemal Atatürk**
+</p>
+
 
 
 
