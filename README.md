@@ -15,7 +15,7 @@
   <b>"Umutsuz durumlar yoktur. Umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim."</b>
 </p>
 <p align="center">
-  <b>Mustafa Kemal Atatürk</b>
+  <b>- Mustafa Kemal Atatürk</b>
 </p>
 
 
@@ -78,7 +78,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emreucbudak)](https://github.com/ryo-ma/github-profile-trophy)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=emreucbudak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak)](https://github.com/anuraghazra/github-readme-stats) <div style="text-align: center; margin-top: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true" alt="GitHub Stats">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=emreucbudak" alt="GitHub Streak Stats">
+</div>
+
 
 
 
