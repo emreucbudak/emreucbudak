@@ -62,6 +62,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emreucbudak/emreucbudak/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emreucbudak/emreucbudak/main/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
