@@ -85,7 +85,7 @@
 
 ###
 <p align="center">
-  <img src="https://emreucbudak.github.io/emreucbudak/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/emreucbudak/emreucbudak/output/snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
