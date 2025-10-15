@@ -9,6 +9,10 @@
 
 ###
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=700&lines=Genelde+Hangi+Teknolojilerle+%F0%9F%92%BB+%C3%87al%C4%B1%C5%9F%C4%B1yorum" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <img src="https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif" alt="Hey What's Up?" />
 </p>
 
