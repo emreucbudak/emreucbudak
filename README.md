@@ -9,7 +9,7 @@
 
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6347&center=true&vCenter=true&width=700&lines=Genelde+Hangi+Teknolojilerle+%F0%9F%92%BB+Calisiyorum" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=%F0%9F%96%A5%EF%B8%8F+Genelde+Hangi+Teknolojilerle+%C3%87al%C4%B1%C5%9F%C4%B1yorum" alt="Typing SVG" /></a>
 </p>
 
 
