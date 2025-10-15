@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/1c8Um5VErzwAAAAC/deep-turkish-web-hosgeldin.gif" alt="Hey What's Up?" />
 </p>
+<h1>Ben Emre yazılım mühendisliği öğrencisiym genelde full stack development ile ilgileniyorum</h1>
 
 ###
 <p align="center">
