@@ -86,9 +86,6 @@
 </div>
 
 ###
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emreucbudak/emreucbudak/output/snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxweXg3cXZiMWhhNWp6bGs0OWtlNTFmanJ0cHd3Z2IwaTUyd2xsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7eYwlTclLVSegrtJ0/giphy.gif" alt="Hey What's Up?" />
