@@ -23,7 +23,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cs" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mssql" /></td>
+      <td align="center"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td>
     </tr>
