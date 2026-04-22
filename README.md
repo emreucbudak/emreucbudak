@@ -1,8 +1,6 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Emre%20Üçbudak&fontSize=70" />
-</div>
+
 
 <p align="center">
   <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzeXd0NGlkcjE0NjR5dDZocTMwZnl5ZWcxNmNla2x5eG5zdzBjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Jw6K3hokvqHVjmvNS/giphy.gif" alt="Coding" />
