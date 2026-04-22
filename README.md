@@ -24,18 +24,21 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=cs" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mssql" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
   </table>
 </div>
