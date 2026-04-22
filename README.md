@@ -18,9 +18,9 @@
 ### 🛠️ Core Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mssql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,redis,mssql&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,rabbitmq&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=js,react,flutter,tailwind,bootstrap&theme=dark" />
 </div>
