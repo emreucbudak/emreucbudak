@@ -4,7 +4,7 @@
 <h1 align="center">
   👋 Ben <span style="color:#4CAF50">Emre</span>, 
   <span style="color:#2196F3">Yazılım Mühendisliği</span> öğrencisiyim. 
-  Genelde <span style="color:#FF5722">Full Stack Development</span> ile ilgileniyorum.
+  <span style="color:#FF5722">Full Stack Development</span> ile ilgileniyorum.
 </h1>
 
 ###
