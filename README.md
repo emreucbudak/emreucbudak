@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/1c8Um5VErzwAAAAC/deep-turkish-web-hosgeldin.gif" alt="Hey What's Up?" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzeXd0NGlkcjE0NjR5dDZocTMwZnl5ZWcxNmNla2x5eG5zdzBjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Jw6K3hokvqHVjmvNS/giphy.gif" alt="Hey What's Up?" />
 </p>
 <h1 align="center">
   👋 Ben <span style="color:#4CAF50">Emre</span>, 
