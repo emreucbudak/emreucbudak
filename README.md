@@ -12,13 +12,6 @@
     alt="Typing animation"
   />
 
-  <br />
-
-  <img
-    src="https://komarev.com/ghpvc/?username=emreucbudak&label=Profile%20Views&color=7f00ff&style=for-the-badge"
-    alt="Profile views"
-  />
-
 </div>
 
 <br />
@@ -38,54 +31,57 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 
 <br />
 
-<div align="center">
-  <img
-    width="420"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzeXd0NGlkcjE0NjR5dDZocTMwZnl5ZWcxNmNla2x5eG5zdzBjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Jw6K3hokvqHVjmvNS/giphy.gif"
-    alt="Coding animation"
-  />
-</div>
-
-<br />
-
 <!-- Teknolojiler -->
 <h2 align="center">🛠️ Teknolojiler ve Araçlar</h2>
 
 <h3 align="center">Backend & Database</h3>
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,rabbitmq&theme=dark"
-    alt=".NET, C#, PostgreSQL, Redis and RabbitMQ"
-  />
 
-  <br /><br />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" title="RabbitMQ" />
 
-  <img
-    width="48"
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-    alt="Microsoft SQL Server"
-    title="Microsoft SQL Server"
-  />
 </div>
 
 <h3 align="center">Frontend & Mobile</h3>
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=js,react,flutter,tailwind,bootstrap&theme=dark"
-    alt="JavaScript, React, Flutter, Tailwind CSS and Bootstrap"
-  />
+
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" />
+
 </div>
 
 <h3 align="center">DevOps & Tools</h3>
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark"
-    alt="Docker, Git, GitHub, Visual Studio Code and Postman"
-  />
+
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" title="Visual Studio Code" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" />
+
 </div>
 
 <br />
@@ -103,26 +99,8 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 
 <br />
 
-<!-- GitHub istatistikleri -->
-<h2 align="center">📊 GitHub İstatistikleri</h2>
-
-<div align="center">
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=emreucbudak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"
-    alt="Emre's GitHub stats"
-  />
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreucbudak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    alt="Most used languages"
-  />
-
-</div>
-
-<br />
+<!-- GitHub aktivitesi -->
+<h2 align="center">🔥 GitHub Aktivitesi</h2>
 
 <div align="center">
 
@@ -153,7 +131,7 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/emre-%C3%BC%C3%A7budak-1b5587304/" target="_blank">
+  <a href="https://www.linkedin.com/in/emre-%C3%BC%C3%A7budak-1b5587304/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -167,14 +145,14 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
     />
   </a>
 
-  <a href="https://medium.com/@emreucbudak1905" target="_blank">
+  <a href="https://medium.com/@emreucbudak1905">
     <img
       src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
       alt="Medium"
     />
   </a>
 
-  <a href="https://www.instagram.com/emreucbudak/" target="_blank">
+  <a href="https://www.instagram.com/emreucbudak/">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
@@ -185,7 +163,7 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 
 <br />
 
-<!-- Aktivite animasyonu -->
+<!-- Contribution animasyonu -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
@@ -199,7 +177,7 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 
 <br />
 
-<!-- Alt başlık -->
+<!-- Alt bölüm -->
 <div align="center">
 
   <i>“İyi yazılım yalnızca çalışan kod değil, geliştirilebilir ve sürdürülebilir bir sistemdir.”</i>
@@ -207,8 +185,8 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
   <br /><br />
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"
     width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=120&section=footer"
     alt="Footer"
   />
 
