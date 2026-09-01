@@ -177,7 +177,7 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 <!-- Alt bölüm -->
 <div align="center">
 
-  <i>“İyi yazılım yalnızca çalışan kod değil, geliştirilebilir ve sürdürülebilir bir sistemdir.”</i>
+  <i>"It's only after we've lost everything that we're free to do anything."</i>
 
   <br /><br />
 
