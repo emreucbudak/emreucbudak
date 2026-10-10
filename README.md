@@ -57,8 +57,6 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
   &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
   &nbsp;
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" />
-  &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" />
