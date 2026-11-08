@@ -1,3 +1,4 @@
+
 <!-- Profil başlığı -->
 <div align="center">
 
@@ -6,8 +7,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=210&section=header&text=Emre%20Üçbudak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"
     alt="Emre Üçbudak"
   />
-
-
 
 </div>
 
@@ -54,6 +53,8 @@ Backend geliştirme, veritabanı tasarımı, dağıtık sistemler ve modern kull
 <div align="center">
 
   <img width="48" height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" />
   &nbsp;
   <img width="48" height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
   &nbsp;
